@@ -1,0 +1,5 @@
+package teste103234;
+
+public enum TipoComida {
+    CHURRASQUEIRA,ITALIANO,MARISQUEIRA,VEGETARIANO
+}

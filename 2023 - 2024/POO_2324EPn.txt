@@ -1,0 +1,27 @@
+
+Alínea 1) ----------------------------------
+
+### There is already an event occurring at this place and time!
+Local: Nome: Riverside Theatre, Capacidade: 100, Horário e Data: 2024-06-28 18:30
+Local: Nome: City Lights Cinema, Capacidade: 150, Horário e Data: 2024-06-10 20:15
+Local: Nome: Central Park Bandshell, Capacidade: 200, Horário e Data: 2024-06-19 21:00
+Local: Nome: The Black Box, Capacidade: 70, Horário e Data: 2024-06-11 22:00
+Local: Nome: Riverside Theatre, Capacidade: 100, Horário e Data: 2024-06-29 18:00
+Local: Nome: City Lights Cinema, Capacidade: 150, Horário e Data: 2024-06-22 19:30
+Local: Nome: Central Park Bandshell, Capacidade: 200, Horário e Data: 2024-06-14 18:30
+Local: Nome: The Black Box, Capacidade: 70, Horário e Data: 2024-06-17 19:00
+Local: Nome: Riverside Theatre, Capacidade: 100, Horário e Data: 2024-06-20 18:45
+Local: Nome: City Lights Cinema, Capacidade: 150, Horário e Data: 2024-06-25 21:15
+Local: Nome: Central Park Bandshell, Capacidade: 200, Horário e Data: 2024-06-12 20:45
+Local: Nome: The Black Box, Capacidade: 70, Horário e Data: 2024-06-23 19:30
+
+
+Alínea 2) ----------------------------------
+
+
+Finished reading file.
+
+
+** First 10 available events, sorted by date:
+
+** Number of tickets sold by event type:
